@@ -1,0 +1,121 @@
+{
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "getInTouch": "Kontakt aufnehmen",
+    "readMore": "Weiterlesen",
+    "viewAll": "Alle anzeigen",
+    "contact": "Kontakt",
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "work": "Projekte",
+    "blog": "Blog",
+    "process": "Vorgehen"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "work": "Projekte",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "process": "Vorgehen"
+  },
+  "hero": {
+    "title": "Ihre Ideen verdienen erstklassige Entwicklung",
+    "description": "Wir sind das Brandenburger Webentwicklungsteam, das ehrgeizige Visionen in digitale Realität verwandelt. Ob Sie eine blitzschnelle Website, eine mobile App, die Nutzer lieben, oder eine E-Commerce-Plattform benötigen, die konvertiert – wir haben Sie abgedeckt. Kein Unternehmensgeschwätz, nur außergewöhnlicher Code und echte Partnerschaft."
+  },
+  "services": {
+    "title": "Leistungen",
+    "subtitle": "Wir helfen Ihnen dabei, neue Möglichkeiten zu identifizieren, zu erkunden und darauf zu reagieren.",
+    "webDevelopment": {
+      "title": "Webentwicklung",
+      "description": "Wir spezialisieren uns auf die Entwicklung schöner, hochwertiger Marketing-Seiten. Der Rest der Website wird eine Hülle sein, die überall Lorem Ipsum verwendet."
+    },
+    "applicationDevelopment": {
+      "title": "Anwendungsentwicklung",
+      "description": "Wir haben ein Team von erfahrenen Entwicklern, die Experten für die neuesten App-Frameworks sind, wie Angular 1 und Google Web Toolkit."
+    },
+    "eCommerce": {
+      "title": "E-Commerce",
+      "description": "Wir stehen an der Spitze der modernen E-Commerce-Entwicklung. Das bedeutet hauptsächlich, Ihr Logo zur Shopify-Store-Vorlage hinzuzufügen, die wir in den letzten sechs Jahren verwendet haben."
+    }
+  },
+  "testimonials": {
+    "quote": "Drei Monate nach dem Launch steigerte unsere neue Plattform den Umsatz um 340% und halbierte die Kundenservice-Tickets. Das Grizzly-Team hat uns nicht nur eine Website gebaut – sie haben echte Geschäftsprobleme gelöst, von denen wir nicht einmal wussten, dass wir sie hatten."
+  },
+  "contact": {
+    "title": "Lassen Sie uns zusammenarbeiten",
+    "description": "Wir können es kaum erwarten, von Ihnen zu hören.",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen",
+      "phone": "Telefon",
+      "message": "Nachricht",
+      "budget": "Budget",
+      "send": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut."
+    },
+    "details": {
+      "address": "Unsere Büros",
+      "email": "E-Mail an uns",
+      "follow": "Folgen Sie uns"
+    }
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Melden Sie sich für unseren Newsletter an",
+      "description": "Abonnieren Sie, um die neuesten Design-News, Artikel, Ressourcen und Inspiration zu erhalten.",
+      "placeholder": "E-Mail-Adresse",
+      "subscribe": "Abonnieren",
+      "success": "Vielen Dank für Ihr Abonnement!",
+      "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut."
+    }
+  },
+  "about": {
+    "title": "Unsere Stärke ist die Zusammenarbeit",
+    "description": "Wir glauben, dass unsere Stärke in unserem kollaborativen Ansatz liegt, der unsere Kunden in den Mittelpunkt von allem stellt, was wir tun.",
+    "culture": {
+      "title": "Unsere Kultur",
+      "description": "Wir sind eine Gruppe gleichgesinnter Menschen, die dieselben Grundwerte teilen."
+    },
+    "team": {
+      "title": "Das Team",
+      "description": "Wir sind ein 100% remote arbeitendes Team, das über den ganzen Globus verteilt ist. Großartige Arbeit zu liefern ist unsere Priorität, unabhängig davon, wo wir sind."
+    }
+  },
+  "work": {
+    "title": "Unsere Projekte",
+    "description": "Wir glauben, dass Technologie die Antwort auf die größten Herausforderungen der Welt ist. Sie ist auch die Ursache, also befinden wir uns in einer Art Zwickmühle."
+  },
+  "blog": {
+    "title": "Die neuesten Artikel und Nachrichten",
+    "description": "Bleiben Sie auf dem Laufenden mit den neuesten Branchennachrichten, während unser Marketing-Team neue Wege findet, alte CSS-Tricks-Artikel wiederzuverwenden.",
+    "readTime": "Min. Lesezeit",
+    "publishedOn": "Veröffentlicht am",
+    "categories": "Kategorien",
+    "relatedPosts": "Verwandte Beiträge"
+  },
+  "process": {
+    "title": "Unser Vorgehen",
+    "description": "Wir glauben an Effizienz und die Maximierung unserer Ressourcen, um unseren Kunden den besten Wert zu bieten.",
+    "discover": {
+      "title": "Entdecken",
+      "description": "Wir arbeiten eng mit unseren Kunden zusammen, um ihre Bedürfnisse und Ziele zu verstehen, und integrieren uns in ihren täglichen Betrieb, um zu verstehen, was ihr Geschäft antreibt."
+    },
+    "build": {
+      "title": "Entwickeln",
+      "description": "Basierend auf den Erkenntnissen aus der Entdeckungsphase entwickeln wir eine umfassende Roadmap für jedes Produkt und beginnen mit der Umsetzung."
+    },
+    "deliver": {
+      "title": "Liefern",
+      "description": "Etwa in der Mitte der Entwicklungsphase verschieben wir jedes Projekt um 6 Wochen aufgrund einer Änderung der Anforderungen. Dies ermöglicht es uns, das Budget ein letztes Mal vor dem Launch zu erhöhen."
+    }
+  },
+  "language": {
+    "switchTo": "Wechseln zu {language}",
+    "current": "Aktuelle Sprache: {language}"
+  }
+}

@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+# Optimize crawling
+Crawl-delay: 1
+
+# Block unnecessary pages
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+Disallow: *.json$
+
+# Allow important resources
+Allow: /api/sitemap
+Allow: /_next/static/
+
+# Sitemap location
+Sitemap: https://grizzly-agency.com/sitemap.xml
+
+# Additional search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

@@ -1,0 +1,121 @@
+{
+  "common": {
+    "learnMore": "Learn more",
+    "getInTouch": "Get in touch",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "contact": "Contact",
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "blog": "Blog",
+    "process": "Process"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "work": "Work",
+    "blog": "Blog",
+    "contact": "Contact",
+    "process": "Process"
+  },
+  "hero": {
+    "title": "Your Ideas Deserve World-Class Development",
+    "description": "We're the Brandenburg web development team that turns ambitious visions into digital reality. Whether you need a lightning-fast website, a mobile app that users love, or an e-commerce platform that converts—we've got you covered. No corporate fluff, just exceptional code and genuine partnership."
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "We help you identify, explore and respond to new opportunities.",
+    "webDevelopment": {
+      "title": "Web development",
+      "description": "We specialise in crafting beautiful, high quality marketing pages. The rest of the website will be a shell that uses lorem ipsum everywhere."
+    },
+    "applicationDevelopment": {
+      "title": "Application development",
+      "description": "We have a team of skilled developers who are experts in the latest app frameworks, like Angular 1 and Google Web Toolkit."
+    },
+    "eCommerce": {
+      "title": "E-commerce",
+      "description": "We are at the forefront of modern e-commerce development. Which mainly means adding your logo to the Shopify store template we've used for the past six years."
+    }
+  },
+  "testimonials": {
+    "quote": "Three months after launch, our new platform increased sales by 340% and cut customer support tickets in half. The Grizzly team didn't just build us a website—they solved real business problems we didn't even know we had."
+  },
+  "contact": {
+    "title": "Let's work together",
+    "description": "We can't wait to hear from you.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "phone": "Phone",
+      "message": "Message",
+      "budget": "Budget",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "details": {
+      "address": "Our offices",
+      "email": "Email us",
+      "follow": "Follow us"
+    }
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Sign up for our newsletter",
+      "description": "Subscribe to get the latest design news, articles, resources and inspiration.",
+      "placeholder": "Email address",
+      "subscribe": "Subscribe",
+      "success": "Thank you for subscribing!",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "about": {
+    "title": "Our strength is collaboration",
+    "description": "We believe that our strength lies in our collaborative approach, which puts our clients at the center of everything we do.",
+    "culture": {
+      "title": "Our culture",
+      "description": "We are a group of like-minded people who share the same core values."
+    },
+    "team": {
+      "title": "The team",
+      "description": "We're a 100% remote team spread across the globe. Delivering great work is our priority, regardless of where we are."
+    }
+  },
+  "work": {
+    "title": "Our work",
+    "description": "We believe technology is the answer to the world's greatest challenges. It's also the cause, so we find ourselves in bit of a catch 22 situation."
+  },
+  "blog": {
+    "title": "The latest articles and news",
+    "description": "Stay up-to-date with the latest industry news as our marketing team finds new ways to re-purpose old CSS tricks articles.",
+    "readTime": "min read",
+    "publishedOn": "Published on",
+    "categories": "Categories",
+    "relatedPosts": "Related posts"
+  },
+  "process": {
+    "title": "Our process",
+    "description": "We believe in efficiency and maximizing our resources to provide the best value to our clients.",
+    "discover": {
+      "title": "Discover",
+      "description": "We work closely with our clients to understand their needs and goals, embedding ourselves in their every day operations to understand what makes their business tick."
+    },
+    "build": {
+      "title": "Build",
+      "description": "Based on the insights gained from the discovery phase, we develop a comprehensive roadmap for each product and start working towards delivery."
+    },
+    "deliver": {
+      "title": "Deliver",
+      "description": "About halfway through the Build phase, we push each project out by 6 weeks due to a change in requirements. This allows us to increase the budget a final time before launch."
+    }
+  },
+  "language": {
+    "switchTo": "Switch to {language}",
+    "current": "Current language: {language}"
+  }
+}
